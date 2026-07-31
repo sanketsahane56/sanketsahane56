@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <!-- Banner (Optional) -->
 <p align="center">
-  <img src="./file_0000000096b0820b8de37c6c484d46b8.png" width="120%" alt="Banner"/>
+  <img src="" width="120%" alt="Banner"/>
 </p>
 
 <!-- Round Profile Photo -->
 <p align="center">
-  <img src="./assets/profile-circle.png" width="180" alt="Sanket Sahane"/>
+  <img src="./file_0000000096b0820b8de37c6c484d46b8.png" width="180" alt="Sanket Sahane"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanket Sahane</h1>
