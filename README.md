@@ -1,3 +1,4 @@
+<p align="center">
 ## Hi Sankuu 👋
 
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+
 
 <a href="mailto:yourmail@example.com">
 <img src="https://img.shields.io/badge/📧_Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
