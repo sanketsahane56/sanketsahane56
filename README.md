@@ -14,50 +14,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Banner (Optional) -->
+<div align="center">
+      
+# Hi there, I'm Pratik 👋
+   
+### Data Science Enthusiast · Exploring machine learning, data engineering, and analytics 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=460&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Always+learning+something+new)](https://git.io/typing-svg)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikshinde.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-shinde-8aa855263/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pratikshinde55)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pratikshinde.55?igsh=MXB3N2s2NDZqaGp2YQ==)
+
+
+</div>
+
+<br>
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+
 <p align="center">
-  <img src="" width="120%" alt="Banner"/>
+  <img src="https://streak-stats.demolab.com/?user=pratikshinde-55&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
-<!-- Round Profile Photo -->
-<p align="center">
-  <img src="./file_0000000096b0820b8de37c6c484d46b8.png" width="180" alt="Sanket Sahane"/>
-</p>
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<h1 align="center">Hi 👋, I'm Sanket Sahane</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science & Design Engineer • Full Stack Developer • AI Enthusiast
-</h3>
+![snake gif](https://raw.githubusercontent.com/pratikshinde-55/pratikshinde-55/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-Building modern web applications, AI projects and creative solutions.
-</p>
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikshinde-55&theme=tokyo-night&hide_border=true"/>
 
-<h3 align="center">🌐 Connect With Me</h3>
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<p align="center">
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Thanks for stopping by — feel free to explore my repos or reach out!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 
-<a href="https://sanketsahane56.github.io/final-portfolio-/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
-<a href="https://t.me/yourusername">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
 
-<a href="https://wa.me/919876543210">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+</div>
