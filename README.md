@@ -1,4 +1,7 @@
 ## Hi Sankuu 👋
+<p align="center">
+  <img src="./file_0000000096b0820b8de37c6c484d46b8.png" width="220" alt="Sanket Sahane">
+</p>
 <!--
 **sanketsahane56/sanketsahane56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
