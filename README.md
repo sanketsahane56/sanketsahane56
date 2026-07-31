@@ -1,5 +1,13 @@
 ## Hi Sankuu 👋
+<p align="center">
+  <img src="C:\Users\sanke\Downloads\sanket.png" width="220" alt="Sanket Sahane" style="border-radius:50%;" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Sanket Sahane</h1>
+
+<h3 align="center">
+Computer Science & Design Engineer | Full Stack Developer | AI & Data Science Enthusiast
+</h3>
 <!--
 **sanketsahane56/sanketsahane56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
