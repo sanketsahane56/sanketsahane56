@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=460&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Always+learning+something+new)](https://git.io/typing-svg)
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://sanketportfolio-sigma.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanketsahane56@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pratik-shinde-8aa855263/](https://www.linkedin.com/in/sanket-sahane-461003332?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pratikshinde55)
