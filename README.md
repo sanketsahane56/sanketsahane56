@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketsahane56&theme=tokyo-night&hide_border=true"/>
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanketsahane56&theme=github-compact)
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
