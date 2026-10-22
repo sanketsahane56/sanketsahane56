@@ -53,7 +53,12 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanketsahane56&theme=github-compact)
+<h2 align="center">📊 GitHub Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/sanketsahane56" alt="GitHub Contribution Chart" width="90%">
+</p>
+
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
