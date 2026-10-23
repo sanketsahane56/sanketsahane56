@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanketsahane56&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketsahane56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="70%" />
 </p>
+
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
