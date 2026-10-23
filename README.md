@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketsahane56&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=sanketsahane56&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 
