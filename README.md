@@ -62,12 +62,24 @@ Here are some ideas to get you started:
 
 
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+!<div align="center">
 
+### 💡 Turning Data into Insights, One Project at a Time.
 
-Thanks for stopping by — feel free to explore my repos or reach out!
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+*Thanks for visiting my GitHub profile!*
 
+**Let's Connect and Build Something Meaningful.** 🤝
 
+<a href="https://www.linkedin.com/in/sanket-sahane-461003332/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sanketsahane56@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B59B6&height=120&section=footer" alt="Footer"/>
 
 </div>
+
